@@ -5,4 +5,12 @@
         "package_name": "com.epochmaking.biologycentre",
         "sha256_cert_fingerprints": ["10:98:14:BB:55:79:45:FE:BC:25:B0:14:85:4A:24:64:C6:91:35:6B:41:1F:AA:19:3F:B0:48:BB:D8:2E:C2:96"]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.epochmaking.bafsb",
+        "sha256_cert_fingerprints": ["10:98:14:BB:55:79:45:FE:BC:25:B0:14:85:4A:24:64:C6:91:35:6B:41:1F:AA:19:3F:B0:48:BB:D8:2E:C2:96"]
+      }
     }]
